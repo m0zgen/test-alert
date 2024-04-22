@@ -1,0 +1,11 @@
+# IDE Excludes
+.vscode
+.idea
+
+# OS Excludes
+.DS_Store
+
+# Project Exceludes
+backup
+log.*
+*log.txt
